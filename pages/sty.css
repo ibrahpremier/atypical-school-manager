@@ -1,0 +1,20 @@
+#btn-like:hover {
+
+color: green;
+}
+
+#btn-dislike:hover{
+	color: #b51804;
+}
+
+#btn-comment:hover{
+	color: #02b8d3;
+}
+
+#btn-bonus:hover{
+	color: #329302;
+}
+
+#btn-malus:hover{
+	color: orange;
+}

@@ -1,0 +1,1 @@
+# atypical-school-manager
